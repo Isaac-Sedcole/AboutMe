@@ -7,6 +7,10 @@ I started studying at Enspiral Dev Academy in November 2020, and graduated in Ma
 
 I am passionate about everything tech related, music, education, exploring, food and exercise.
 
+### Links
+LinkedIn: https://www.linkedin.com/in/isaac-sedcole-177613208/
+GlassHomes: https://glasshome.herokuapp.com/
+
 # Ongoing projects
 
 ### GlassHomes

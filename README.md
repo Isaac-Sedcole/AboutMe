@@ -1,4 +1,4 @@
-# AboutMe
+# About Me
 An introduction to who I am and the projects i'm working on.
 
 I'm a full stack developer who is looking forward to furthering myself and my skills and expanding my knowledge in the tech area/industry.

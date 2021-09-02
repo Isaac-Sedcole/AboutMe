@@ -8,7 +8,7 @@ I started studying at Enspiral Dev Academy in November 2020, and graduated in Ma
 I am passionate about everything tech related, music, education, exploring, food and exercise.
 
 ### Links
- - LinkedIn: https://www.linkedin.com/in/isaac-sedcole-177613208/
+ - LinkedIn: https://www.linkedin.com/in/isaac-sedcole/
  - GlassHomes: https://glasshome.herokuapp.com/
 
 # Ongoing projects
@@ -22,6 +22,9 @@ My role in this project was CTO(Chief Technical Officer) and git main(Manager). 
 This is a personal project website where users can sign up and then choose other users to group with in order to find out what games they have in common.
 
 I built this due to the fact that I can never decide what games to play with friends. And so I decided to make a website that can automatically collate all the games everyone has and if everyone owns it, that will show. It also shows you games that are owned by everyone except 1 person. This allows that one person to purchase and then play the game with all their other friends.
+
+### DrinkingGames
+This is app that is supposed to start out as an encyclopedia of drinking games for you to pick from but has lots of potential to expand into developing our own game and implenting helpful features.
 
 ### Learning more languages
 I am using Udemy to learn more languages and further my knowledge in Java, Python and Unity 2D and 3D.
